@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The Bring Your Own FAIRification Objectives workshop – BYOFO Workshop - is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
 
-[Link to another page](./another-page.html).
+The workshop is organised following a “Bring Your Own Data” – BYOD – format (e.g., [RD BYOD](https://www.ejprarediseases.org/?s=bring+your+own+data)), where participants learn from “try and fail” hands-on exercises. It is intended for those who want to learn more about preparing and planning for FAIRification.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+The BYOFO workshop is organised at the [Enterprise Design, Operations and Computing (EDOC 2023) Conference](https://www.rug.nl/research/bernoulli/conf/edoc-2023/call-for-papers/), which will take place from **October 30 to November 3, 2023**, in Groningen, the Netherlands.
 
 
-### Definition lists can be used with HTML syntax.
+``` 
+Registration and workshop dates: TBA.
+``` 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+--- 
+### Preliminary program
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+_First half of the day_
+* Introduction of workshop goals and presentation about the FAIR principles and FAIRification
+* Presentation of the mock case scenario
+* Hands-on using mock case scenarios: challenges of not having a FAIRification plan 
+* Discussion: participants perception of FAIRification and its challenges 
 
-```
-The final element.
-```
+_Second half of the day_
+* Introduction of the method and Q&A 
+* Hands-on using mock case scenarios: using a FAIRification planning method
+* Discussion: participants perception and FAIRification challenges after using the method 
+
+---
+
+### Motivation
+
+The process of making data FAIR ('FAIRification') is multifaceted and multidisciplinary, and it can be accomplished through a variety of means. As a result, defining explicit FAIRification objectives at the onset of the process is critical to ensuring successful and efficient FAIRification. These objectives serve as a guide for the subsequent FAIRification implementation decisions, assisting in the establishment of a cohesive and effective FAIRification process. 
+
+To the best of our knowledge, limited research has been conducted on effective methods for eliciting FAIRification objectives and their impact on FAIRification activities. Considering these gaps in knowledge, we proposed a goal-based FAIRification planning [method](https://doi.org/10.5281/zenodo.7778372) that builds on experience gained from recent FAIRification projects and feedback from experts on FAIR. It provides a systematic approach to identifying, refining and prioritizing FAIRification objectives. The method consists of six phases that focus on important aspects of FAIRification: 
+* (i) FAIRification preparation, 
+* (ii) assessment of FAIR supporting infrastructure and target resources, 
+* (iii) preparation of project stakeholders, 
+* (iv) identification of domain scope and groups of reuse stakeholders, 
+* (v) FAIRification goals refinement and alignment to target FAIR principles,
+* (vi) decision-making.
+
+In the proposed workshop, we aim at instructing people on using the method for planning FAIRification projects. We seek to raise awareness of the benefits of proper planning before the FAIRification project execution and to provide instruction on best practices for doing so. 
+
+
+### Organisation
+
+* M.Sc. César Bernabé, Leiden University Medical Centre
+* [dr. L.O. Bonino da Silva Santos](https://people.utwente.nl/l.o.boninodasilvasantos), University of Twente
+
+✉ [Contact Us](mailto:)
