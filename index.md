@@ -8,6 +8,12 @@ The workshop is organised following a “Bring Your Own Data” – [BYOD](about
 
 The one-day BYOFO workshop will take place at the [Enterprise Design, Operations and Computing (**EDOC 2023**) Conference](https://www.rug.nl/research/bernoulli/conf/edoc-2023/call-for-papers/){:target="_blank"}.
 
+---
+
+### GO-Plan
+
+#### During the BYOFO workshop, participants will experiment with [GO-Plan](./method.html), a method for the identification of FAIRification objectives. 
+
 
 ---
 
@@ -26,7 +32,7 @@ Workshop day: October 30 or October 31, 2023 (TBD)
 
 ### More information
 
-* [Motivation](./motivation.html)
+* [Motivation and the GO-Plan Method](./motivation.html)
 * [Preliminary program](./preliminary-program.html)
 
 
