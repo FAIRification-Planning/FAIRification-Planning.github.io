@@ -18,12 +18,8 @@ The half-day workshop will take place at the [Enterprise Design, Operations and 
 ---
 
 ### Registration
-
-
-``` 
-Registration: register at the [EDOC Website](https://www.rug.nl/research/bernoulli/conf/edoc-2023/registration-form)
-Workshop day: October 30, 2023 
-``` 
+* Registration: register at the [EDOC Website](https://www.rug.nl/research/bernoulli/conf/edoc-2023/registration-form)
+* Workshop day: October 30, 2023  
 
 --- 
 
