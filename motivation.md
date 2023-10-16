@@ -1,4 +1,4 @@
-### Motivation
+### Motivation and method
 
 The process of making data FAIR ('FAIRification') is multifaceted and multidisciplinary, and it can be accomplished through a variety of means. As a result, defining explicit FAIRification objectives at the onset of the process is critical to ensuring successful and efficient FAIRification. These objectives serve as a guide for the subsequent FAIRification implementation decisions, assisting in the establishment of a cohesive and effective FAIRification process. 
 

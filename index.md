@@ -6,16 +6,31 @@ The Bring Your Own FAIRification Objectives workshop – BYOFO Workshop - is ded
 
 The workshop is organised following a “Bring Your Own Data” – [BYOD](https://doi.org/10.5281/zenodo.8247728){:target="_blank"} – format, where participants learn from hands-on exercises. It is intended for those who want to learn more about preparing and planning for FAIRification.
 
-The half-day workshop will take place at the [Enterprise Design, Operations and Computing (**EDOC 2023**) Conference](https://www.rug.nl/research/bernoulli/conf/edoc-2023/call-for-papers/){:target="_blank"}.
+## Program:
 
----
+**[13:30h - 14:00h] Introduction of workshop and learning goals:**
+* Introduction and discussion about the FAIR principles and the FAIRification process
+* Presentation of the mock case scenario and instructions about the hands-on
+
+**[14:00h - 15:00h] Hands-on, part I:**
+* Introduction of the [GO-Plan method](./motivation.html) and Q&A 
+* Applying GO-Plan's phases 1-3 on the mock-case scenario
+
+**[15:30h - 17:00h] Hands-on, part II:**
+* Applying GO-Plan's phases 4-6 on the mock-case scenario
+* Discussion on FAIRification and its challenges after using the method 
+
+
+<!-- The half-day workshop will take place at the [Enterprise Design, Operations and Computing (**EDOC 2023**) Conference](https://www.rug.nl/research/bernoulli/conf/edoc-2023/call-for-papers/){:target="_blank"}. -->
+
+<!-- ---
 
 ### GO-Plan
 
-#### During the BYOFO workshop, participants will experiment with [GO-Plan](./method.html), a method for the identification of FAIRification objectives. 
+#### During the BYOFO workshop, participants will experiment with [GO-Plan](./motivation.html), a method for the identification of FAIRification objectives. 
 
 
----
+--- -->
 
 ### Registration
 * Registration: register at the [EDOC Website](https://www.rug.nl/research/bernoulli/conf/edoc-2023/registration-form)
@@ -25,15 +40,7 @@ The half-day workshop will take place at the [Enterprise Design, Operations and 
 
 ### More information
 
-* [Motivation and the GO-Plan Method](./motivation.html)
-
-**Preliminary program:**
-* Introduction of workshop goals and presentation about the FAIR principles and FAIRification
-* Presentation of the mock case scenario
-* Introduction of the method and Q&A 
-* Hands-on using mock case scenarios: using a FAIRification planning method
-* Discussion on FAIRification and its challenges after using the method 
-
+* [The GO-Plan Method](./motivation.html)
 
 ---
 
