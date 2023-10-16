@@ -6,7 +6,9 @@ The Bring Your Own FAIRification Objectives workshop – BYOFO Workshop - is ded
 
 The workshop is organised following a “Bring Your Own Data” – [BYOD](https://doi.org/10.5281/zenodo.8247728){:target="_blank"} – format, where participants learn from hands-on exercises. It is intended for those who want to learn more about preparing and planning for FAIRification.
 
-## Program:
+--- 
+
+### Program:
 
 **[13:30h - 14:00h] Introduction of workshop and learning goals:**
 * Introduction and discussion about the FAIR principles and the FAIRification process
@@ -20,6 +22,7 @@ The workshop is organised following a “Bring Your Own Data” – [BYOD](https
 * Applying GO-Plan's phases 4-6 on the mock-case scenario
 * Discussion on FAIRification and its challenges after using the method 
 
+--- 
 
 <!-- The half-day workshop will take place at the [Enterprise Design, Operations and Computing (**EDOC 2023**) Conference](https://www.rug.nl/research/bernoulli/conf/edoc-2023/call-for-papers/){:target="_blank"}. -->
 
