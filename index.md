@@ -2,9 +2,16 @@
 layout: default
 ---
 
-The Bring Your Own FAIRification Objectives workshop – BYOFO Workshop - is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
+The Insights in Data FAIRification Planning (BYOFO Workshop) is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
 
-The workshop is organised following a “Bring Your Own Data” – [BYOD](https://doi.org/10.5281/zenodo.8247728){:target="_blank"} – format, where participants learn from hands-on exercises. It is intended for those who want to learn more about preparing and planning for FAIRification.
+This workshop focuses on the benefits of generating data that adheres to the principles of Findability, Accessibility, Interoperability, and Reusability (FAIR). It will also provide practical guidance on effectively planning the FAIRification process within your organization. 
+
+Since its publication in 2016, the seminal paper on the FAIR principles has gained significant traction, having been cited over eleven thousand times. The FAIR principles have been explicitly referenced in the official reports of both the G20 (September 2016) and G7 (May 2017) summits, used as the basis of the European Open Science Cloud and as requirements for funding agencies around the world, including the European programs Horizon 2020 and Horizon Europe, the American’s National Institutes for Health (NIH). 
+
+Additionally, experience has shown that adhering to the FAIR principles enhances the value of organisational data, facilitates its reuse, and ensures greater reproducibility of results. However, achieving FAIR data requires defining and refining realistic FAIRification objectives. To effectively FAIRify your data, it is essential to define and refine realistic FAIRification objectives. 
+
+This workshop introduces a new method that provides a systematic approach to identifying and developing your own FAIRification objectives. During the workshop, we will build on techniques from software and ontology engineering as well as experiences from prior FAIRification projects.
+
 
 --- 
 
@@ -37,7 +44,7 @@ The workshop is organised following a “Bring Your Own Data” – [BYOD](https
 
 ### Registration
 * Registration: register at the [EDOC Website](https://www.rug.nl/research/bernoulli/conf/edoc-2023/registration-form)
-* Workshop day: October 30, 2023  
+* Workshop day: October 30, 2023 at 13:30h (CET) 
 
 --- 
 
