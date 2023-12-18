@@ -10,7 +10,7 @@ This tutorial is based on the formats of previous [Bring Your Own Data Workshops
 
 The first edition of this tutorial has been organised as a [workshop at EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/){:target="_blank"}.
 
-![GO-Plan Phases Overview](/assets/img/Phases_Overview.png)
+![GO-Plan Phases Overview](./assets/img/Phases_Overview.png)
 
 --- 
 
