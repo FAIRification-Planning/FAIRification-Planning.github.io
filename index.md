@@ -4,7 +4,7 @@ layout: default
 
 ## The 2nd Insights in Data FAIRification Planning tutorial will be held at the SWAT4HCLS 2024, in Leiden, NL!
 
-![GO-Plan Phases Overview](/assets/img/leiden2.png)
+[![GO-Plan Phases Overview](/assets/img/leiden2.png)](https://www.swat4ls.org/)
 
 
 This tutorial is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
