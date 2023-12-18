@@ -17,16 +17,16 @@ The first edition of this tutorial has been organised as a [workshop at EDOC 202
 ### (Tentative) Program:
 
 **[13:30h - 14:00h] Introduction of workshop and learning goals:**
-- Introduction and discussion about the FAIR principles and the FAIRification process
-- Presentation of the mock case scenario and instructions about the hands-on
+\- Introduction and discussion about the FAIR principles and the FAIRification process
+\- Presentation of the mock case scenario and instructions about the hands-on
 
 **[14:00h - 15:00h] Hands-on, part I:**
-- Introduction of the GO-Plan method and Q&A 
-- Applying GO-Plan's phases 1-3 on the mock-case scenario
+\- Introduction of the GO-Plan method and Q&A 
+\- Applying GO-Plan's phases 1-3 on the mock-case scenario
 
 **[15:30h - 17:00h] Hands-on, part II:**
-- Applying GO-Plan's phases 4-6 on the mock-case scenario
-- Discussion on FAIRification and its challenges after using the method 
+\- Applying GO-Plan's phases 4-6 on the mock-case scenario
+\- Discussion on FAIRification and its challenges after using the method 
 
 --- 
 
