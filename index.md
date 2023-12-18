@@ -2,7 +2,12 @@
 layout: default
 ---
 
-The **2nd Insights in Data FAIRification Planning tutorial** is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
+## The 2nd Insights in Data FAIRification Planning tutorial will be held at the SWAT4HCLS 2024, in Leiden, NL!
+
+![GO-Plan Phases Overview](/assets/img/leiden2.jpg)
+
+
+This tutorial is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
 
 This tutorial focuses on providing practical guidance on effectively planning the FAIRification process via the [GO-Plan method](https://er2023.inesc-id.pt/wp-content/uploads/forum_paper_2142.pdf){:target="_blank"}, summarised in the Figure below. It also showcases the benefits of generating data that adheres to the principles of Findability, Accessibility, Interoperability, and Reusability (FAIR). 
 
