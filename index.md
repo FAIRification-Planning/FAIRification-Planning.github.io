@@ -2,15 +2,14 @@
 layout: default
 ---
 
-The 2nd Insights in Data FAIRification Planning tutorial is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
+The **2nd Insights in Data FAIRification Planning tutorial** is dedicated to supporting people on the crucial _“identifying your FAIRification objectives”_ step of FAIRification.
 
 This tutorial focuses on providing practical guidance on effectively planning the FAIRification process via the [GO-Plan method](https://er2023.inesc-id.pt/wp-content/uploads/forum_paper_2142.pdf){:target="_blank"}, summarised in the Figure below. It also showcases the benefits of generating data that adheres to the principles of Findability, Accessibility, Interoperability, and Reusability (FAIR). 
 
-This tutorial is based on the formats of previous [Bring Your Own Data Workshops](https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00236/118045/Building-expertise-on-FAIR-through-evolving-Bring){:target="_blank"}, which focus on the FAIRification process. 
-
-The first edition of this tutorial has been organised as a [workshop at EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/){:target="_blank"}.
-
 ![GO-Plan Phases Overview](/assets/img/Phases_Overview.jpg)
+
+This tutorial is based on the formats of previous [Bring Your Own Data Workshops](https://direct.mit.edu/dint/article/doi/10.1162/dint_a_00236/118045/Building-expertise-on-FAIR-through-evolving-Bring){:target="_blank"}, which focus on the FAIRification process. The first edition of this tutorial has been organised as a [workshop at EDOC 2023](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/){:target="_blank"}.
+
 
 --- 
 
