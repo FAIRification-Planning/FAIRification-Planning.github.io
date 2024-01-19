@@ -51,8 +51,11 @@ Applying GO-Plan's phases 4-6 on the mock-case scenario, and discussion on FAIRi
 ### Organisation
 
 * César Bernabé, Leiden University Medical Centre
-* Isadora Valle Sousa, Free University of Bozen-Bolzano
+* Isadora Valle Sousa, Free University of Bozen-Bolzano and University of Twente
+* Claudio Carta, Istituto Superiori di Sanità
+* Bruna dos Santos Vieira, Radboud University Medical Centre
 * [Luiz Olavo Bonino da Silva Santos](https://people.utwente.nl/l.o.boninodasilvasantos){:target="_blank"}, Leiden University Medical Centre and University of Twente
+* Annika Jacobsen, Leiden University Medical Centre
 * [Marco Roos](https://www.lumc.nl/en/about-lumc/afdelingen/human-genetics/biosemantics/){:target="_blank"}, Leiden University Medical Centre
 
 [Contact Us](mailto:byofo-edoc@outlook.com)
