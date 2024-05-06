@@ -20,9 +20,9 @@ This tutorial is based on the formats of previous [Bring Your Own Data Workshops
 
 ### Previous editions:
 
-** The Insights in FAIRification Planning Workshop @ EDOC 2023: [link](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/)
+** The Insights in FAIRification Planning Workshop @ EDOC 2023: [link](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/) ** <br/>
 
-** The 2nd Insights in FAIRification Planning Workshop @ SWAT4HCLS 2024: [link](https://drive.google.com/file/d/18OssIT64ju6zTBh9Nv7XgQXtpzANjWEo/view)
+** The 2nd Insights in FAIRification Planning Workshop @ SWAT4HCLS 2024: [link](https://drive.google.com/file/d/18OssIT64ju6zTBh9Nv7XgQXtpzANjWEo/view) ** <br/>
 
 <!-- ### (Tentative) Program:
 
