@@ -20,9 +20,9 @@ This tutorial is based on the formats of previous [Bring Your Own Data Workshops
 
 ### Previous editions:
 
-** The Insights in FAIRification Planning Workshop @ EDOC 2023: [link](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/) ** <br/>
+* The Insights in FAIRification Planning Workshop @ EDOC 2023: [link](https://www.rug.nl/research/bernoulli/conf/edoc-2023/workshops/) <br/>
 
-** The 2nd Insights in FAIRification Planning Workshop @ SWAT4HCLS 2024: [link](https://drive.google.com/file/d/18OssIT64ju6zTBh9Nv7XgQXtpzANjWEo/view) ** <br/>
+** The 2nd Insights in FAIRification Planning Workshop @ SWAT4HCLS 2024: [link](https://drive.google.com/file/d/18OssIT64ju6zTBh9Nv7XgQXtpzANjWEo/view)<br/>
 
 <!-- ### (Tentative) Program:
 
@@ -43,9 +43,13 @@ Applying GO-Plan's phases 4-6 on the mock-case scenario, and discussion on FAIRi
 ### GO-Plan
 
 #### During the BYOFO workshop, participants will experiment with [GO-Plan](./motivation.html), a method for the identification of FAIRification objectives. 
+-->
 
+---
 
---- -->
+### Resources
+
+* Slides, documents and other resources used during the workshop: [link](https://github.com/hbcesar/GO-Plan-Workshop/wiki)
 
 <!-- ### Registration
 * Registration: register at the [SWAT4HCLS Website](https://www.swat4ls.org/){:target="_blank"}
