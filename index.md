@@ -49,7 +49,9 @@ Applying GO-Plan's phases 4-6 on the mock-case scenario, and discussion on FAIRi
 
 ### Resources
 
-* Slides, documents and other resources used during the workshop: [link](https://github.com/hbcesar/GO-Plan-Workshop/wiki)
+* [Slides](https://surfdrive.surf.nl/files/index.php/s/nCH7FAy5qs8Clql){:target="_blank"} used in the tutorial
+* [Templates](https://surfdrive.surf.nl/files/index.php/s/Cg1iLBBSupa25lP/download){:target="_blank"} for describing GO-Plan's documentation
+* Other resources: [link](https://github.com/hbcesar/GO-Plan-Workshop/wiki){:target="_blank"}
 
 <!-- ### Registration
 * Registration: register at the [SWAT4HCLS Website](https://www.swat4ls.org/){:target="_blank"}
@@ -59,7 +61,7 @@ Applying GO-Plan's phases 4-6 on the mock-case scenario, and discussion on FAIRi
 
 ### Organisation
 
-* César Bernabé, Leiden University Medical Centre
+* [César Bernabé](https://cbernabe.com/){:target="_blank"}, Leiden University Medical Centre
 * Isadora Valle Sousa, Free University of Bozen-Bolzano and University of Twente
 * Claudio Carta, Istituto Superiori di Sanità
 * Bruna dos Santos Vieira, Radboud University Medical Centre
